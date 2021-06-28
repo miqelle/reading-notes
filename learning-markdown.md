@@ -48,9 +48,7 @@ Ordered
 1. Item 
 2. Item
 3. Item
-   3. Item 3a
-   3. Item 3b
-
+  
 Images
 
 ![Github Logo](/images/logo.png)
