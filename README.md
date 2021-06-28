@@ -6,7 +6,7 @@ As I am embarking on this developer journey, I have come to realize that a **gro
 
 ### What is a growth mindset?
  
-A growth mindset, is a mind that desires to learn and grow continously.
+A growth mindset, is a mind that desires to **learn and grow continously**.
 
 ### Here are 3 things that I remind myself of to keep a growth mindset:
 
