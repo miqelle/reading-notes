@@ -26,7 +26,7 @@ Headers
 
 Emphasis
 
- *This text will be italic* (You do this by addiding two signs like this ---> * )
+ *This text will be italic* (You do this by adding two signs like this ---> * )
  
 _ This will also be italic _
 
