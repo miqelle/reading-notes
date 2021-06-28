@@ -12,7 +12,7 @@
 
 ## Where can you use Markdown?
 
-- # Gists
+- Gists
 - Comments in Issues and Pull Requests
 - Files with .md or .markdown extension
 
@@ -20,19 +20,20 @@
 
 Headers
 
-- # This is an h1 tag
-- ## This is an h2 tag
-- ###### This is an h6 tag
+- #This is an h1 tag
+- ##This is an h2 tag
+- ######This is an h6 tag
 
 Emphasis
 
- *This text will be italic*
- _This will also be italic_
+ *This text will be italic* (You do this by addiding two signs like this ---> * )
+ 
+_ This will also be italic _
 
-**This text will be bold**
-__This will also be bold__
+** This text will be bold **
+__ This will also be bold __
 
-_You **can** combine them_
+_ You ** can ** combine them _
 
 Lists
 
@@ -50,7 +51,7 @@ Ordered
    3. Item 3a
    3. Item 3b
 
-# Images
+Images
 
 ![Github Logo](/images/logo.png)
 Format: ![Alt Text](url)
