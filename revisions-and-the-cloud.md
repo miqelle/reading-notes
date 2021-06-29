@@ -10,16 +10,16 @@ Through version control, one can revert a file or project to a previous verison,
 
 **Version Control Systems** (VCS) simply make it easy to fix mistakes with files!
 
-**What is git?**
+**What is Git?**
 
 * It's a version control system.
 * It lets multiple developers work on the same code.
-* A history of changes to your files.
-* The ability to view, apply, and remove those changes.
-* Keep all of your project files in one place.
+* It keeps the history of changes to your files.
+* It gives you the ability to view, apply, and remove those changes.
+* It also allows you to keep all of your project files in one place.
 
-**How do I get Git on my computer?
+**How do I get Git on my computer?**
 
-You can download Git on a Windows computer by visiting this link and following the posted directions:
-http://git-scm.com/download/win
+You can download *Git* on a Windows computer by visiting this link and following the posted directions:
+[Git for Windows](http://git-scm.com/download/win)
 
