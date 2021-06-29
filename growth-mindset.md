@@ -1,3 +1,4 @@
+# Growth Mindset
 As I am embarking on this developer journey, I have come to realize that a **growth mindset is necessary**.
 
 ### What is a growth mindset?
