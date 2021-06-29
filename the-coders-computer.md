@@ -4,12 +4,12 @@ A **text editor** is an app used to write the text needed to build things like w
 
 ## What kind of text editors are available?
 
-Everyone has a text editor already available on there computer.
+All computers have a text editor already installed for you to use!
 Windows users have Notepad, and Mac Users have Text Edit.
 
 Here is a list of Third-Party text editors:
 
-* Visual Studio Code
+* Visual Studio Code 
 * Notepad ++
 * Atom
 * Brackets
