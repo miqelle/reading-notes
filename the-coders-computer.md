@@ -4,19 +4,19 @@ A **text editor** is an app used to write the text needed to build things like w
 
 ## What kind of text editors are available?
 
-All computers have a text editor already installed for you to use!
-Windows users have **Notepad**, and Mac Users have **Text Edit**.
+Everyone has a text editor already available on there computer.
+Windows users have Notepad, and Mac Users have Text Edit.
 
 Here is a list of Third-Party text editors:
 
-* **Visual Studio Code** 
-* **Notepad ++**
-* **Atom**
-* **Brackets**
-* **Sublime Text**
-* **BB Edit**
+* Visual Studio Code
+* Notepad ++
+* Atom
+* Brackets
+* Sublime Text
+* BB Edit
 
-## Things to consider when selecting a text editor:
+## Here is a list of things to consider when selecting a text editor:
 
 * It should be **free to use** like _Visual Studio Code_ or _Atom_
 * It should have **code completion**, which saves you time when writing code 🙂
@@ -24,7 +24,7 @@ Here is a list of Third-Party text editors:
 * It should be **available on all computers** such as Windows, Mac, and Linux 💻 🖥️ !
 * It should also **support multiple coding languages** such as _HTML, CSS, Javascript, and C++_
 
-## List of terminal commands: 
+## Resource for Basic terminal usage
 * **pwd** stands for _print working directory_; it tells you what your current working directory is.
 * **ls** stands for _let's give it a go_; it tells you a plain listing of your current location. 
 * **[] square brackets** mean that an item is optional, and the code can be ran with or without the item.
