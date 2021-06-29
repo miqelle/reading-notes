@@ -1,4 +1,4 @@
-# About Me
+# Home Page
 
 Hello all! My name is **Miqelle Clements**, and I am on the journey to become a Software Developer 💻 ! You can view my work at [Github](https://github.com/miqelle).
 
