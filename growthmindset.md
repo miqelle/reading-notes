@@ -1,7 +1,3 @@
-# About Me
-
-Hello all! My name is **Miqelle Clements**, and I am on the journey to become a Software Developer 💻 ! You can view my work at [Github](https://github.com/miqelle).
-
 As I am embarking on this developer journey, I have come to realize that a **growth mindset is necessary**.
 
 ### What is a growth mindset?
