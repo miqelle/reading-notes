@@ -1,6 +1,6 @@
 # What is Javascript?
 
-*JavaScript* is a scripting or programming language that allows youto implement complex features on web pages. 
+*JavaScript* is a scripting or programming language that allows you to implement complex features on web pages. 
 
 # Examples of Javascript you may have seen before:
 
