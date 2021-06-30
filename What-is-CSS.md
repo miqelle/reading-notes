@@ -4,7 +4,7 @@
 * CSS is a rule-based language that allows you to control how a web page is styled
 * With CSS you can change the color of a webpage as well as the fonts
 
-##CSS Syntax:
+## CSS Syntax:
 
 * Since CSS is a rule based language it has it's own syntax to make changes
 * If you want the main heading on your page to be shown as **large red text**, you would first need to open the rule with a selector such as (<h1>). Then inside of **curly braces** you will need one or more **declarations**, such as **property** and **value** pairs.
