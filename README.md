@@ -6,3 +6,4 @@ Hello all! My name is **Miqelle Clements**, and I am on the journey to become a 
 * [The Coders Computer](https://miqelle.github.io/reading-notes/the-coders-computer)
 * [Growth Mindset](https://miqelle.github.io/reading-notes/growth-mindset)
 * [Revisions and the Cloud](https://miqelle.github.io/reading-notes/revisions-and-the-cloud)
+* [Structure Web Pages with HTML](https://miqelle.github.io/reading-notes/structure-web-pages-with-html)
