@@ -8,3 +8,4 @@ Hello all! My name is **Miqelle Clements**, and I am on the journey to become a 
 * [Revisions and the Cloud](https://miqelle.github.io/reading-notes/revisions-and-the-cloud)
 * [Structure Web Pages with HTML](https://miqelle.github.io/reading-notes/structure-web-pages-with-HTML)
 * [What is CSS?](https://miqelle.github.io/reading-notes/What-is-CSS)
+* [Dynamic Web Pages with JavaScript](https://miqelle.github.io/reading-notes/javascript-notes)

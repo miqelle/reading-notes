@@ -20,6 +20,11 @@
 * **Internal CSS**: An internal style sheet may be used if one single HTML page has a unique style. The internal style is defined inside the style element, inside the head section.
 * **Inline CSS**: An inline style may be used to apply a unique style for a single element. To use inline styles, add the style attribute to the relevant element. The style attribute can contain any CSS property.
 
+**Helpful tips:**
+
+* For **External CSS** make sure to include the name of the folder the file is in, if the file is inside a folder.
+* Every ID **must** be unique when using an ID Selector
+
 
 
 
