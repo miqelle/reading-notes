@@ -22,10 +22,7 @@ Two types of wireframes:
 
 In programming **semantics** is the meaning of a piece of code.
 
-Here is a list of **semantic** elements:
+**Benefits of semantic markup:**
 
-* <header>                    * <article>                 * <time>
-* <footer>                    * <details>                 * <summary>
-
-
-
+* Search engines will consider its content as important keywords to influence the page's search rankings.
+* Screen readers use it to help visually impaired users navigate the page.
