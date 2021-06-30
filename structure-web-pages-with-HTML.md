@@ -15,8 +15,8 @@ Two types of wireframes:
 * HTML stands for **Hyper Text Markup Language**
 * It is used to structure a web page and its content.
 * HTML utilizes something called **elements** to make content appear or act a certain way.
-* It also uses **tags** to make a word hyperlinks, *italicize* words, and can make fonts larger or smaller.
-* HTML can be used to create paragraphs, headings, lists, and include images on web pages.
+* It also uses **tags** to make clickable hyperlinks, *italicize* words, and make fonts larger or smaller.
+* HTML can also be used to create paragraphs, headings,and lists.
 
 **What is semantics?**
 
