@@ -16,12 +16,12 @@
 
 # What is a varialble?
 
-A *variable* is a container that stores data.
+A **variable** is a container that stores data.
 
 # How do you create a variable?
 
 * Make a variable declaration like this: var x;
-* Assign the variable like this: x=20;
+* Assign a variable like this: x=20;
 
 # TIPS
 
