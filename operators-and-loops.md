@@ -1,12 +1,15 @@
 **What does an Assignment Operator do?**
+
 * An assignment operator assigns a value to its left operand based on the value of its right operand. 
 
 * The simple assignment operator is the equal sign (=), which assigns the value of its right operand to its left  operand. That is, x = y assigns the value of y to x.
 
 **What is an Expression?**
+
 An **Expression** is any valid unit of code that resolves to a value.
 
 **What is a **Loop?**
+
 Loops offer a quick and easy way to do something repeatedly.
 
 **The statements for loops provided in JavaScript are:**
@@ -20,12 +23,14 @@ Loops offer a quick and easy way to do something repeatedly.
 * for...of statement
 
 **Information about Loops**
+
 **A for loop** repeats until a specified condition evaluates to *false*.
 
 A for statement looks as follows:
+```
 for ([initialExpression]; [conditionExpression]; [incrementExpression])
   statement
-
+```
 When a for loop executes, the following occurs:
 
 1. The initializing expression initialExpression, if any, is executed. This expression usually initializes one or more loop counters, but the syntax allows an expression of any degree of complexity. This expression can also declare variables.
