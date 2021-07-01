@@ -18,7 +18,6 @@
 * Decrement
 
 * **Comparison Operators:** 
-
 *  equal to
 *  equal value and equal type
 *  not equal
@@ -30,7 +29,6 @@
 *  ternary operator
 
 * **Logical Operators:** 
-    
 * logical and 
 * logical or 
 * logical not 
