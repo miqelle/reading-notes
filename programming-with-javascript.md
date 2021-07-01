@@ -8,14 +8,14 @@
 **What are JavaScript operators?**
 
 * **Arithmetic Operators:**
-* +	Addition
-* -	Subtraction
-* *	Multiplication
-* **	Exponentiation (ES2016)
-* /	Division
-* %	Modulus (Division Remainder)
-* ++	Increment
-* --	Decrement
+* Addition
+* Subtraction
+* Multiplication
+* Exponentiation 
+* Division
+* Modulus (Division Remainder)
+* Increment
+* Decrement
 
 * **Comparison Operators:** 
 
