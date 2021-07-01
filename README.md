@@ -10,3 +10,4 @@ Hello all! My name is **Miqelle Clements**, and I am on the journey to become a 
 * [What is CSS?](https://miqelle.github.io/reading-notes/What-is-CSS)
 * [Dynamic Web Pages with JavaScript](https://miqelle.github.io/reading-notes/javascript-notes)
 * [Programming with Javascript](https://miqelle.github.io/reading-notes/programming-with-javascript)
+* [Operators & Loops](https://miqelle.github.io/reading-notes/operators-and-loops)
