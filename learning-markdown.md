@@ -52,7 +52,7 @@ Ordered
 
 # Images
 
-![Github Logo](/images/logo.png)
+[Github Logo](https://www.influxdata.com/wp-content/uploads/GitHub-logo.jpg)
 Format: ![Alt Text](url)
 
 Links
