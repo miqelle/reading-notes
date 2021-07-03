@@ -50,14 +50,9 @@ Ordered
    3. Item 3a
    3. Item 3b
 
-# Images
-
-[Github Logo](https://www.influxdata.com/wp-content/uploads/GitHub-logo.jpg)
-Format: ![Alt Text](url)
-
 Links
 
-http://github.com - automatic!
+[Github Logo](https://www.influxdata.com/wp-content/uploads/GitHub-logo.jpg)
 [Github](htt[://github.com)
 
 
