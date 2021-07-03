@@ -18,13 +18,13 @@
 
 ## Here is a list of Markdown Syntax:
 
-Headers
+**Headers**
 
 - # This is an h1 tag
 - ## This is an h2 tag
 - ###### This is an h6 tag
 
-Emphasis
+**Emphasis**
 
  *This text will be italic*
  _This will also be italic_
@@ -50,10 +50,10 @@ Ordered
    3. Item 3a
    3. Item 3b
 
-Links
+**Links**
 
-[Github Logo](https://www.influxdata.com/wp-content/uploads/GitHub-logo.jpg)
-[Github](htt[://github.com)
+- [Github Logo](https://www.influxdata.com/wp-content/uploads/GitHub-logo.jpg)
+- [Github](https://github.com/)
 
 
 ## What is GitHub Pages?
