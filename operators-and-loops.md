@@ -8,7 +8,7 @@
 
 An **Expression** is any valid unit of code that resolves to a value.
 
-**What is a **Loop?**
+**What is a Loop?**
 
 Loops offer a quick and easy way to do something repeatedly.
 
