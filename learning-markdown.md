@@ -12,7 +12,7 @@
 
 ## Where can you use Markdown?
 
-- # Gists
+- Gists
 - Comments in Issues and Pull Requests
 - Files with .md or .markdown extension
 
