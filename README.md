@@ -16,4 +16,6 @@ Hello all! My name is **Miqelle Clements**, and I am on the journey to become a 
 
 # Code 201 Reading Notes
 
+This is a compilation of my notes from the **Foundations of Software Development** course!
+
 ## Table of Contents
