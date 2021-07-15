@@ -1,4 +1,4 @@
-# Code 201 Reading Notes
+# Code 102 Reading Notes
 
 Hello all! My name is **Miqelle Clements**, and I am on the journey to become a Software Developer 💻 ! You can view my work at [Github](https://github.com/miqelle).
 
@@ -13,3 +13,7 @@ Hello all! My name is **Miqelle Clements**, and I am on the journey to become a 
 * [Dynamic Web Pages with JavaScript](https://miqelle.github.io/reading-notes/javascript-notes)
 * [Programming with Javascript](https://miqelle.github.io/reading-notes/programming-with-javascript)
 * [Operators & Loops](https://miqelle.github.io/reading-notes/operators-and-loops)
+
+# Code 201 Reading Notes
+
+## Table of Contents
